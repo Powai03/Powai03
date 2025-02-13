@@ -19,9 +19,8 @@
 
  
 
-## 📈 Stats & Contributions  
+## 📈 Stats   
 
-![Powai03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Powai03&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Powai03&layout=compact&theme=radical)  
 
 ## 📫 Me Contacter  
