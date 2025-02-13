@@ -26,8 +26,8 @@
 ## 📫 Me Contacter  
 
 📍 **Portfolio** : [powai.dev](https://powai.dev)  
-💼 **LinkedIn** : [linkedin.com/in/tonprofil]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/kilian-delcenserie-076a2028b/))   
-📧 **Email** : [tonmail@example.com](mailto:kilian.dlcsr92@gmail.com)  
+💼 **LinkedIn** : [linkedin.com/in/kilian-delcenserie-076a2028b/]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/kilian-delcenserie-076a2028b/))   
+📧 **Email** : [kilian.dlcsr92@gmail.com](mailto:kilian.dlcsr92@gmail.com)  
 
 ---
 
