@@ -13,7 +13,7 @@
 
 ## 📌 Projets Phares  
 
-🔹 🎨 [Portfolio - powai.dev](https://powai.dev) → Mon espace perso en ligne  
+🔹 🎨 [Portfolio - powai.dev](https://powai.dev) → Mon portfolio
 🔹 🛒 [E-Commerce Symfony](https://github.com/Powai03/ecommerce) → Une boutique fictive  
 🔹 🛒 [TCG Harry Potter](https://github.com/Powai03/hp) → Plateforme de collection et d'échange de cartes autour de l'univers d'Harry Potter
 
@@ -26,7 +26,7 @@
 ## 📫 Me Contacter  
 
 📍 **Portfolio** : [powai.dev](https://powai.dev)  
-💼 **LinkedIn** : [linkedin.com/in/kilian-delcenserie-076a2028b/]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/kilian-delcenserie-076a2028b/))   
+💼 **LinkedIn** : [linkedin.com/in/kilian-delcenserie-076a2028b/]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/kilian-delcenserie-076a2028b/)   
 📧 **Email** : [kilian.dlcsr92@gmail.com](mailto:kilian.dlcsr92@gmail.com)  
 
 ---
