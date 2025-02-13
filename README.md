@@ -13,8 +13,10 @@
 
 ## 📌 Projets Phares  
 
-🔹 🎨 [Portfolio - powai.dev](https://powai.dev) → Mon portfolio
-🔹 🛒 [E-Commerce Symfony](https://github.com/Powai03/ecommerce) → Une boutique fictive
+🔹 🎨 [Portfolio - powai.dev](https://powai.dev) → Mon portfolio 
+
+🔹 🛒 [E-Commerce Symfony](https://github.com/Powai03/ecommerce) → Une boutique fictive 
+
 🔹 🛒 [TCG Harry Potter](https://github.com/Powai03/hp) → Plateforme de collection et d'échange de cartes autour de l'univers d'Harry Potter
 
  
