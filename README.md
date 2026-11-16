@@ -27,7 +27,6 @@
 
 ## 📫 Me Contacter  
 
-📍 **Portfolio** : [powai.dev](https://powai.dev)  
 💼 **LinkedIn** : [linkedin.com/in/kilian-delcenserie-076a2028b/](https://www.linkedin.com/in/kilian-delcenserie-076a2028b/)   
 📧 **Email** : [kilian.dlcsr92@gmail.com](mailto:kilian.dlcsr92@gmail.com)  
 
